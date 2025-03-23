@@ -5,4 +5,4 @@ This repository contains the **Aptamer2D images** obtained from our research wor
 ## 📧 Contact
 Nirmal Melam
 Theodore Roosevelt High School, Des Moines, IA 
-For any questions or inquiries, feel free to reach out at [**your-email@example.com**].
+For any questions or inquiries, feel free to reach out at [melamnirmal@gmail.com].
